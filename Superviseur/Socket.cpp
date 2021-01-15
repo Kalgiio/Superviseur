@@ -160,7 +160,7 @@ int main(int argc, char* argv[]) // V0.03 // Main serveur
 
     _finir(); // pour un système Windows
 
-    //cout << "num_socket : " << num_socket << endl;
+    //cout << "num_socket : " << num_socket << endl
 
     //system("PAUSE"); // pour eviter la fermeture de la console
 }
